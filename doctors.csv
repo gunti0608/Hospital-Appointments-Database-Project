@@ -1,0 +1,31 @@
+doctor_id,name,gender,specialty,years_experience,rating
+1,Dr. Kim,Female,Pediatrics,33,Good
+2,Dr. Wong,Female,Dermatology,5,Average
+3,Dr. Patel,Male,Orthopedics,24,Outstanding
+4,Dr. Lee,Male,Dermatology,13,Outstanding
+5,Dr. Patel,Other,Orthopedics,14,Good
+6,Dr. Wilson,Female,Orthopedics,25,Average
+7,Dr. Kim,Other,Neurology,34,Good
+8,Dr. Carter,Female,Orthopedics,11,Outstanding
+9,Dr. Evans,Male,Dermatology,15,Excellent
+10,Dr. Sharma,Female,Orthopedics,37,Outstanding
+11,Dr. Patel,Other,Cardiology,4,Average
+12,Dr. Kim,Other,General Medicine,35,Excellent
+13,Dr. Kim,Other,Pediatrics,35,Average
+14,Dr. Lee,Female,Orthopedics,5,Excellent
+15,Dr. Brown,Female,Dermatology,16,Excellent
+16,Dr. Wilson,Male,Dermatology,31,Outstanding
+17,Dr. Wilson,Male,Cardiology,11,Outstanding
+18,Dr. Kim,Other,Neurology,11,Excellent
+19,Dr. Evans,Male,Neurology,28,Excellent
+20,Dr. Carter,Male,Neurology,19,Outstanding
+21,Dr. Lee,Male,General Medicine,29,Average
+22,Dr. Patel,Female,General Medicine,26,Outstanding
+23,Dr. Carter,Other,Orthopedics,31,Excellent
+24,Dr. Carter,Male,Neurology,16,Good
+25,Dr. Patel,Male,Cardiology,22,Good
+26,Dr. Patel,Female,General Medicine,24,Outstanding
+27,Dr. Evans,Female,General Medicine,35,Excellent
+28,Dr. Patel,Other,Pediatrics,11,Good
+29,Dr. Lee,Other,General Medicine,37,Average
+30,Dr. Patel,Male,Orthopedics,36,Outstanding

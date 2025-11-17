@@ -1,0 +1,301 @@
+patient_id,name,gender,dob,age,satisfaction,address,height_cm,weight_kg
+1,Nikhil Wong,Male,1936-11-26,88,Very High,273 Queen St,152,93
+2,David Evans,Female,1975-04-26,50,Low,164 King Rd,171,87
+3,Sara Brown,Male,1966-10-02,59,Low,900 Elm St,154,45
+4,Michael Lee,Male,2001-12-14,23,Low,684 King Rd,158,47
+5,James Carter,Other,1963-02-08,62,High,481 Queen St,169,88
+6,David Lee,Male,1951-04-07,74,High,13 Elm St,191,110
+7,Esha Evans,Other,1946-01-30,79,Very High,534 Elm St,173,110
+8,Nikhil Brown,Other,1998-06-25,27,Very High,674 Main Ave,160,87
+9,Michael Evans,Female,1999-04-26,26,Very High,397 Main Ave,151,69
+10,Layla Sharma,Other,1973-04-12,52,Low,918 Main Ave,164,96
+11,David Evans,Other,2000-07-13,25,High,507 King Rd,184,106
+12,Priya Brown,Other,1966-01-05,59,Very High,770 Elm St,152,46
+13,Priya Lee,Male,2004-01-03,21,High,819 Main Ave,193,79
+14,Esha Carter,Male,1996-02-23,29,Low,523 Main Ave,195,56
+15,Amit Carter,Male,1957-10-27,68,Very High,76 Elm St,151,86
+16,James Lee,Male,1938-07-14,87,High,425 Main Ave,151,65
+17,Esha Sharma,Other,1944-12-20,80,Medium,382 King Rd,155,52
+18,David Carter,Other,1978-06-04,47,Medium,936 Main Ave,174,92
+19,Priya Evans,Female,1959-07-02,66,Low,645 King Rd,187,94
+20,Esha Singh,Other,1993-09-09,32,Very High,685 Queen St,172,102
+21,Rhea Wong,Female,1936-06-03,89,Low,163 Main Ave,183,110
+22,David Brown,Female,1961-01-08,64,Low,559 Main Ave,164,88
+23,Amit Wong,Other,1984-01-26,41,Medium,908 Main Ave,166,95
+24,Nikhil Evans,Male,1988-03-17,37,Medium,777 Queen St,162,79
+25,Layla Patel,Male,1952-01-20,73,High,86 Main Ave,185,62
+26,David Brown,Female,1961-09-22,64,Very High,796 Queen St,166,107
+27,Michael Carter,,1960-12-02,64,Medium,625 Queen St,188,108
+28,Michael Wilson,Male,1943-11-16,82,Low,370 Elm St,173,98
+29,Michael Kim,Male,1936-10-14,89,Very High,352 King Rd,161,93
+30,Nikhil Carter,Female,1960-12-28,64,High,850 King Rd,185,93
+31,Michael Sharma,Female,1994-12-01,30,High,515 Main Ave,153,93
+32,Nikhil Wilson,Female,1979-02-10,46,Low,477 Main Ave,165,102
+33,James Lee,Other,1954-08-14,71,High,255 Elm St,182,80
+34,Michael Singh,Male,1994-10-29,31,Low,439 Elm St,158,106
+35,David Singh,Female,1957-04-10,68,Medium,334 Main Ave,164,49
+36,Rhea Evans,Other,1936-06-04,89,High,723 Queen St,170,94
+37,Sara Sharma,Female,1980-04-25,45,Medium,427 Main Ave,177,50
+38,Layla Singh,Female,1945-06-11,80,Medium,203 Queen St,167,66
+39,David Patel,Female,1961-01-18,64,Very High,230 Main Ave,183,56
+40,Amit Lee,,1956-12-31,68,High,827 King Rd,183,53
+41,Esha Carter,Female,1995-12-09,29,Low,584 Elm St,191,100
+42,David Kim,,1961-08-23,64,Medium,200 King Rd,165,49
+43,Sara Patel,Male,1969-09-05,56,Low,12 Elm St,191,86
+44,David Singh,Male,1983-10-10,42,Very High,716 Main Ave,161,83
+45,Amit Wong,Other,1948-03-15,77,High,218 Queen St,173,64
+46,Rhea Patel,Female,1985-12-20,39,Very High,401 King Rd,174,54
+47,Rhea Singh,Female,1993-05-26,32,Very High,749 Queen St,158,60
+48,Rhea Kim,Other,1950-10-02,75,Low,456 Main Ave,168,91
+49,Sara Carter,,1996-05-28,29,Low,608 Main Ave,155,71
+50,Esha Brown,Female,1994-07-29,31,Very High,144 Queen St,160,56
+51,Michael Singh,Male,1992-10-03,33,Medium,469 Elm St,162,96
+52,Nikhil Singh,Male,1995-08-18,30,Very High,713 Queen St,158,50
+53,Michael Lee,Male,1984-06-08,41,Medium,804 Elm St,171,63
+54,Amit Singh,Female,1976-07-09,49,Very High,354 King Rd,153,52
+55,David Sharma,Male,1983-06-29,42,High,241 King Rd,185,45
+56,Layla Evans,Female,1968-02-18,57,High,380 King Rd,176,49
+57,Layla Wong,Female,1977-10-08,48,Low,820 Main Ave,182,45
+58,James Sharma,Female,1941-05-01,84,Medium,625 Main Ave,178,58
+59,Layla Evans,Male,1970-02-02,55,Low,197 King Rd,172,99
+60,Rhea Wong,Other,1956-04-18,69,Medium,397 Queen St,166,48
+61,Priya Patel,Female,1989-05-20,36,Low,140 Queen St,167,60
+62,Amit Kim,Male,1983-01-11,42,High,134 Main Ave,176,56
+63,Layla Wong,Other,1956-03-19,69,Low,683 Queen St,171,81
+64,James Lee,Male,2005-05-30,20,Low,859 Queen St,189,57
+65,Rhea Carter,Female,1945-06-01,80,Medium,840 King Rd,174,45
+66,Esha Patel,Male,2005-07-04,20,Very High,133 Queen St,161,79
+67,Esha Brown,Female,1978-06-23,47,Low,895 Queen St,157,95
+68,James Wilson,Male,1948-08-23,77,Medium,897 Main Ave,169,88
+69,Nikhil Brown,Female,1980-05-01,45,Medium,438 King Rd,181,50
+70,Esha Sharma,Male,1990-08-17,35,Low,564 King Rd,154,102
+71,Layla Patel,Female,1954-10-24,71,Very High,729 Main Ave,154,72
+72,Amit Lee,Male,1957-11-25,67,High,719 Queen St,163,49
+73,Priya Evans,Male,1941-11-04,84,Low,858 Elm St,180,94
+74,Michael Brown,Other,1946-11-15,79,Very High,998 Elm St,192,58
+75,Amit Singh,Male,1992-03-26,33,Medium,801 Main Ave,173,110
+76,Esha Wong,Female,1969-01-08,56,Medium,547 Queen St,150,63
+77,David Wilson,Other,1952-01-03,73,Low,465 King Rd,190,106
+78,Nikhil Kim,,1938-05-06,87,Very High,383 Main Ave,184,88
+79,Sara Brown,Male,1972-04-04,53,Low,600 Queen St,181,92
+80,Esha Brown,Male,1946-12-03,78,Low,238 Elm St,158,109
+81,Amit Lee,Other,1938-01-26,87,Medium,901 Elm St,171,85
+82,Layla Carter,Other,1981-11-25,43,High,693 Elm St,161,75
+83,Amit Singh,Other,1959-08-15,66,Medium,378 Queen St,158,63
+84,Priya Carter,Other,1989-11-06,36,Medium,521 King Rd,181,109
+85,Nikhil Lee,,1981-01-25,44,High,693 Elm St,164,53
+86,Esha Lee,Female,1977-04-23,48,Low,654 Elm St,176,56
+87,Michael Lee,Female,2004-08-04,21,Low,39 Main Ave,173,86
+88,Sara Evans,Other,1945-06-25,80,Very High,747 Main Ave,192,74
+89,Nikhil Brown,Male,1947-04-11,78,Very High,208 Elm St,177,46
+90,Michael Brown,Female,1973-11-29,51,High,691 Queen St,172,71
+91,Nikhil Sharma,Other,1994-05-12,31,Low,615 Elm St,182,98
+92,Esha Lee,Male,1988-12-26,36,Medium,358 King Rd,171,98
+93,Rhea Sharma,Female,1999-04-27,26,High,522 Elm St,156,70
+94,James Sharma,Other,1995-01-12,30,High,180 King Rd,155,53
+95,Esha Lee,Other,1966-09-15,59,Very High,732 Queen St,176,51
+96,Amit Wong,Other,1970-09-02,55,Very High,854 Main Ave,173,89
+97,Amit Kim,Other,1989-04-03,36,Low,28 Elm St,175,109
+98,Michael Singh,Male,1980-02-22,45,High,720 Main Ave,159,85
+99,Layla Lee,Female,1985-07-31,40,Low,631 Elm St,159,71
+100,Michael Patel,Other,1963-03-14,62,Medium,870 Main Ave,160,70
+101,Rhea Lee,Female,1963-03-09,62,Very High,475 Main Ave,177,82
+102,Amit Carter,Female,1997-01-18,28,High,392 King Rd,164,52
+103,Priya Carter,Other,1966-01-17,59,High,622 King Rd,168,67
+104,David Patel,Other,1968-06-16,57,Low,598 Elm St,185,53
+105,Michael Lee,,1949-02-17,76,Medium,173 Main Ave,194,61
+106,Priya Wong,Female,1992-01-12,33,Medium,466 Main Ave,189,74
+107,Layla Patel,Female,1988-09-24,37,Low,769 Main Ave,162,102
+108,Nikhil Brown,Male,1936-08-29,89,High,638 King Rd,170,50
+109,Amit Patel,Male,1974-09-21,51,Medium,86 King Rd,179,100
+110,Priya Sharma,,1958-11-12,67,Low,621 King Rd,191,58
+111,Esha Brown,Male,1945-08-12,80,High,175 Elm St,158,92
+112,Esha Singh,Other,1962-02-26,63,High,444 Elm St,188,65
+113,Layla Brown,Male,1985-05-12,40,High,762 Elm St,182,63
+114,Layla Patel,Male,1958-05-24,67,Medium,238 Elm St,157,57
+115,James Brown,Other,2004-06-05,21,Very High,737 Elm St,164,74
+116,Layla Carter,Other,1998-11-23,26,High,258 Main Ave,167,75
+117,Priya Wilson,Male,1988-10-31,37,Low,677 Queen St,176,110
+118,James Lee,Male,1989-04-01,36,Very High,331 Queen St,177,84
+119,Amit Lee,Other,2003-09-14,22,Medium,272 Main Ave,158,101
+120,Rhea Wong,Male,1943-05-26,82,Very High,492 Main Ave,173,60
+121,Sara Kim,Other,1983-01-22,42,High,588 Queen St,156,46
+122,Michael Kim,Female,1965-10-01,60,Very High,155 King Rd,165,67
+123,Michael Patel,Other,1965-03-29,60,Medium,836 King Rd,177,92
+124,Esha Brown,Female,1954-06-25,71,High,856 Elm St,184,100
+125,Nikhil Patel,Female,1985-08-31,40,Medium,159 Main Ave,178,86
+126,Nikhil Lee,Female,1965-02-23,60,Low,244 Queen St,166,62
+127,James Brown,Female,1989-07-15,36,Medium,248 King Rd,161,80
+128,Esha Evans,Female,2000-11-03,25,Very High,577 Elm St,166,86
+129,Priya Sharma,Male,1939-06-14,86,Very High,665 Main Ave,155,91
+130,Priya Carter,Female,1937-03-14,88,Very High,557 Elm St,189,50
+131,Nikhil Patel,Male,1964-03-27,61,Very High,235 Queen St,183,108
+132,Nikhil Wilson,Other,1972-05-21,53,Medium,971 King Rd,164,47
+133,Amit Sharma,Other,1957-08-21,68,Very High,551 Elm St,168,69
+134,Michael Carter,Other,1947-09-06,78,Medium,529 King Rd,162,49
+135,David Patel,Other,1979-01-15,46,High,882 Elm St,168,62
+136,David Carter,Female,1994-07-21,31,Medium,157 Queen St,173,74
+137,Michael Sharma,Other,1966-08-05,59,Low,730 Queen St,173,50
+138,Layla Carter,Other,1936-06-29,89,High,672 Queen St,160,70
+139,James Carter,Male,1966-03-02,59,High,208 Main Ave,168,106
+140,Layla Wong,Other,1962-05-01,63,High,522 Main Ave,160,103
+141,Rhea Evans,Male,1947-12-15,77,Medium,148 Elm St,153,91
+142,Esha Lee,Other,1986-12-19,38,Medium,337 Queen St,163,74
+143,Priya Wilson,Male,1982-05-18,43,Medium,446 King Rd,187,110
+144,Esha Carter,Other,1988-10-23,37,Low,66 King Rd,192,65
+145,Sara Singh,Female,1975-04-09,50,High,209 Elm St,175,53
+146,David Wong,Other,1936-05-28,89,Very High,976 King Rd,186,99
+147,Priya Kim,Male,1973-10-17,52,Low,190 Elm St,190,88
+148,Rhea Sharma,Male,1961-03-29,64,Low,640 Queen St,175,53
+149,Priya Sharma,Male,1975-10-07,50,Medium,902 Main Ave,165,69
+150,Sara Lee,Male,2002-08-22,23,Low,520 King Rd,180,87
+151,David Brown,Other,1991-02-09,34,Very High,760 Elm St,187,75
+152,Amit Carter,Male,1964-07-01,61,Low,676 Main Ave,192,54
+153,Priya Lee,Other,1958-01-14,67,Medium,841 King Rd,165,73
+154,Sara Brown,Male,1982-01-18,43,High,98 King Rd,165,45
+155,James Kim,Female,1995-07-13,30,Medium,527 Main Ave,150,53
+156,James Sharma,Other,1943-11-01,82,Very High,252 Main Ave,171,104
+157,Layla Patel,Other,1966-09-12,59,Very High,40 Queen St,153,58
+158,Amit Lee,Female,1988-03-22,37,Low,940 King Rd,172,64
+159,Priya Wilson,Male,1949-12-30,75,High,876 Main Ave,154,102
+160,Nikhil Sharma,Female,1960-11-28,64,Low,269 Elm St,192,104
+161,Michael Sharma,Male,1964-03-18,61,Medium,802 Main Ave,184,86
+162,Rhea Wilson,Female,1990-09-16,35,Medium,797 King Rd,191,103
+163,Michael Sharma,Male,1963-08-14,62,Medium,457 Elm St,165,94
+164,James Kim,Other,1937-11-17,87,High,685 Queen St,183,58
+165,Rhea Brown,Male,1962-10-15,63,Very High,143 Elm St,157,80
+166,Priya Patel,Male,1996-12-30,28,High,346 King Rd,170,100
+167,James Sharma,Male,1955-01-12,70,Low,909 Elm St,173,99
+168,Nikhil Wong,Male,1979-07-09,46,Very High,687 King Rd,179,54
+169,Sara Patel,Other,1990-10-11,35,High,135 Main Ave,161,81
+170,Amit Carter,Female,1984-10-09,41,Very High,974 Elm St,160,45
+171,James Evans,Other,2005-03-14,20,Medium,449 Elm St,160,82
+172,James Wong,Male,1940-10-04,85,Medium,995 Elm St,164,45
+173,Nikhil Kim,Female,1993-02-11,32,Very High,915 Queen St,162,103
+174,Priya Singh,Other,1992-08-20,33,Low,149 King Rd,185,45
+175,Nikhil Sharma,Male,1964-03-08,61,Very High,685 Main Ave,161,98
+176,Rhea Sharma,Male,1943-09-15,82,High,218 Elm St,188,88
+177,David Wilson,Male,1957-10-26,68,Medium,178 King Rd,168,67
+178,Rhea Singh,Female,1993-05-26,32,High,625 Elm St,184,103
+179,James Brown,Male,1936-11-11,89,Medium,822 Elm St,194,86
+180,Amit Patel,Female,1945-08-29,80,Low,209 Main Ave,181,97
+181,Nikhil Wilson,Female,1965-02-26,60,Medium,212 Elm St,157,93
+182,Michael Sharma,Other,1988-10-28,37,Medium,46 King Rd,183,70
+183,Priya Wong,Female,1980-03-21,45,Medium,599 Queen St,150,84
+184,David Wong,Female,1946-03-01,79,Low,15 Main Ave,192,95
+185,Esha Wilson,Female,1954-11-23,70,High,980 Elm St,181,94
+186,Priya Brown,Male,1967-02-17,58,Low,372 King Rd,153,45
+187,Esha Brown,Other,1947-05-28,78,Low,228 Main Ave,192,91
+188,Layla Wong,Other,1991-05-04,34,High,549 King Rd,183,106
+189,David Singh,Female,1980-02-12,45,High,399 Queen St,191,53
+190,David Singh,Female,1940-06-23,85,Low,966 Main Ave,154,72
+191,Nikhil Evans,Other,1944-03-12,81,Very High,531 Queen St,158,81
+192,James Kim,Other,1968-08-15,57,High,640 King Rd,185,69
+193,Sara Wilson,Female,1969-02-01,56,Medium,20 King Rd,167,98
+194,Layla Lee,Male,1975-07-23,50,High,533 Queen St,162,106
+195,Priya Kim,Other,1973-12-16,51,High,332 Main Ave,188,50
+196,Amit Wilson,Male,1976-08-17,49,High,196 Main Ave,192,76
+197,Rhea Wong,Other,1957-05-31,68,Medium,894 Main Ave,193,108
+198,Layla Kim,Other,1967-10-26,58,High,777 Elm St,181,52
+199,Layla Wilson,Other,1996-10-21,29,Very High,568 King Rd,184,82
+200,Rhea Sharma,Female,1980-02-20,45,Low,128 King Rd,181,90
+201,Priya Kim,Other,1999-10-04,26,Medium,365 Queen St,177,59
+202,Esha Singh,Other,1966-06-04,59,Medium,528 King Rd,153,72
+203,David Brown,Male,2001-09-26,24,Low,975 King Rd,157,76
+204,Michael Singh,Other,1940-07-10,85,Medium,490 Elm St,172,68
+205,Michael Singh,Male,1967-05-24,58,Medium,880 Queen St,167,53
+206,David Sharma,Male,1956-06-15,69,Low,360 King Rd,193,101
+207,David Carter,Female,2001-01-06,24,Low,234 Queen St,190,66
+208,Nikhil Carter,Male,1987-02-12,38,Low,905 Main Ave,188,51
+209,Esha Lee,Other,1964-09-02,61,Very High,320 Queen St,158,98
+210,Rhea Patel,Male,1952-02-29,73,Very High,360 King Rd,174,86
+211,Michael Brown,Female,1996-09-12,29,Low,772 Elm St,155,104
+212,David Wong,Other,1972-07-01,53,High,738 Elm St,186,54
+213,David Kim,Male,1989-05-12,36,Very High,417 Elm St,178,81
+214,James Kim,Other,1962-06-25,63,Medium,592 Elm St,171,93
+215,Amit Wong,Female,1984-07-26,41,Medium,788 Queen St,163,88
+216,Layla Carter,Other,2002-07-07,23,Very High,776 King Rd,178,87
+217,Nikhil Singh,Female,2001-09-17,24,High,96 Elm St,183,62
+218,Michael Brown,Female,1948-12-01,76,Medium,675 Queen St,159,54
+219,Michael Kim,Other,1988-09-03,37,Very High,868 Elm St,169,72
+220,David Sharma,Female,1982-08-05,43,Medium,780 Elm St,167,51
+221,Amit Sharma,Male,1950-03-26,75,Very High,828 Queen St,164,61
+222,Esha Wilson,Male,1977-02-26,48,Very High,121 Main Ave,153,46
+223,David Patel,Male,1975-02-21,50,High,741 Main Ave,172,88
+224,Esha Wilson,Female,1981-11-23,43,Low,19 Elm St,168,51
+225,Sara Wong,Female,1991-08-02,34,High,351 Elm St,158,62
+226,Priya Wilson,Female,1978-02-23,47,Medium,856 Elm St,178,77
+227,David Evans,Other,1959-08-03,66,High,261 Main Ave,183,75
+228,Nikhil Kim,Other,2004-04-20,21,Medium,820 Elm St,152,64
+229,Nikhil Sharma,Male,1987-06-05,38,Medium,733 Elm St,160,57
+230,Sara Evans,,2002-03-26,23,Low,617 King Rd,160,59
+231,Esha Wilson,Male,1950-12-09,74,Medium,509 King Rd,152,54
+232,Rhea Kim,Male,1942-08-21,83,Low,678 Elm St,176,91
+233,Michael Wilson,Male,2000-07-23,25,Low,656 Main Ave,186,106
+234,James Singh,Female,1943-12-26,81,High,704 Elm St,151,85
+235,Michael Patel,Female,1982-07-15,43,High,865 King Rd,151,97
+236,Nikhil Brown,Female,2005-01-22,20,Very High,764 Elm St,190,110
+237,Priya Carter,Other,1938-01-07,87,Very High,604 Main Ave,195,105
+238,David Kim,Female,1972-06-13,53,High,906 Main Ave,184,85
+239,David Wong,Other,1971-09-08,54,Medium,771 King Rd,188,48
+240,Priya Kim,Male,1936-02-04,89,Very High,727 Main Ave,155,83
+241,Michael Wilson,Male,1982-05-24,43,Medium,782 Main Ave,172,45
+242,Rhea Wong,Male,1956-06-05,69,High,149 Elm St,153,50
+243,Layla Carter,Other,1998-02-23,27,High,167 King Rd,186,71
+244,James Lee,Male,1943-08-02,82,High,800 Queen St,150,105
+245,Layla Kim,Female,1949-06-21,76,Low,598 Elm St,188,72
+246,Michael Patel,Female,1999-08-07,26,High,610 Elm St,176,74
+247,James Brown,Male,1972-06-22,53,High,281 Main Ave,164,85
+248,Amit Brown,Female,1943-03-13,82,Low,965 Main Ave,159,52
+249,Layla Carter,Male,1961-12-17,63,Low,660 King Rd,180,93
+250,Amit Sharma,Male,1954-12-05,70,High,356 Elm St,154,70
+251,Esha Lee,Female,1953-10-15,72,Very High,226 Elm St,173,100
+252,Rhea Sharma,Other,1970-08-10,55,Very High,299 King Rd,158,101
+253,David Lee,Other,1961-05-27,64,High,914 Queen St,179,110
+254,James Lee,Other,1996-01-13,29,High,387 Queen St,187,78
+255,Nikhil Singh,Male,1945-04-24,80,Low,317 King Rd,162,57
+256,Priya Wilson,Other,2001-01-08,24,Medium,752 Elm St,190,56
+257,Rhea Kim,Male,1995-04-17,30,High,452 King Rd,154,54
+258,Sara Singh,,1975-07-26,50,Medium,768 Queen St,167,59
+259,Sara Kim,Male,1979-07-24,46,Very High,856 Queen St,156,72
+260,Layla Kim,Other,1970-05-24,55,Very High,628 Elm St,162,55
+261,James Sharma,Male,1951-01-21,74,Medium,292 Queen St,158,50
+262,Esha Carter,Other,1936-02-01,89,Very High,848 King Rd,177,81
+263,Michael Carter,Other,1975-06-02,50,Medium,790 Elm St,161,103
+264,James Carter,Female,1975-12-16,49,Low,401 Main Ave,192,79
+265,James Carter,Other,1991-05-11,34,Medium,120 Elm St,152,62
+266,David Patel,Male,1962-12-19,62,High,606 King Rd,180,88
+267,James Lee,Female,1985-09-02,40,Very High,892 Main Ave,180,58
+268,James Wilson,Male,1946-06-23,79,Medium,539 King Rd,153,68
+269,Sara Patel,Other,1968-01-20,57,Low,746 Elm St,150,102
+270,Michael Brown,Other,1941-01-12,84,High,558 Queen St,195,87
+271,Michael Patel,Female,1942-10-07,83,Low,423 Main Ave,190,80
+272,Michael Patel,Female,2001-11-18,23,High,870 King Rd,159,77
+273,Amit Sharma,Female,1962-07-26,63,High,170 King Rd,186,74
+274,Rhea Wilson,Other,2004-08-29,21,Low,976 King Rd,187,99
+275,Rhea Kim,Male,1992-01-22,33,Very High,78 Main Ave,158,86
+276,Esha Patel,Female,1944-11-11,81,Medium,971 King Rd,167,58
+277,Nikhil Kim,Other,1999-10-27,26,Low,794 Elm St,166,46
+278,Amit Wilson,Male,1948-05-26,77,Medium,678 Elm St,160,96
+279,James Wilson,Male,1957-12-21,67,High,62 Main Ave,195,81
+280,Nikhil Brown,Female,2004-10-29,21,Very High,812 King Rd,168,61
+281,Amit Carter,Female,1986-10-21,39,Medium,818 King Rd,195,94
+282,David Singh,Other,1955-01-11,70,High,965 Queen St,177,60
+283,Rhea Singh,Male,1944-11-06,81,Very High,738 King Rd,156,80
+284,Rhea Wong,Male,1952-10-30,73,High,825 Main Ave,190,80
+285,Priya Wilson,Female,1985-01-18,40,Low,887 Elm St,156,71
+286,Rhea Sharma,Male,1949-02-24,76,High,538 Main Ave,177,69
+287,Priya Evans,Male,1948-08-05,77,Medium,826 King Rd,181,65
+288,Nikhil Evans,Other,1942-10-22,83,Medium,210 King Rd,158,87
+289,Sara Patel,Other,1999-01-22,26,High,52 Queen St,163,106
+290,Amit Wilson,Female,2003-06-06,22,Medium,272 King Rd,164,102
+291,Esha Lee,Male,1957-02-12,68,Low,32 Elm St,194,92
+292,Layla Carter,Male,2001-11-24,23,High,812 Queen St,176,68
+293,Sara Patel,Other,1991-11-18,33,Low,516 King Rd,176,82
+294,Michael Sharma,Male,1954-07-18,71,High,466 Queen St,163,81
+295,Michael Brown,Male,1952-12-01,72,Low,814 Main Ave,178,71
+296,Esha Evans,Male,1997-11-07,28,Very High,134 King Rd,184,95
+297,Rhea Sharma,Female,2004-01-13,21,Very High,61 King Rd,157,96
+298,Nikhil Evans,Other,1982-01-29,43,Low,246 King Rd,159,105
+299,Priya Wilson,Other,1959-03-28,66,Very High,215 King Rd,164,86
+300,Sara Carter,Other,1936-02-19,89,High,602 King Rd,151,67

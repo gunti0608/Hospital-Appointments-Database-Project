@@ -1,0 +1,701 @@
+prescription_id,appointment_id,medication_name,dosage_mg,instructions
+1,405,Amoxicillin,750,Take once daily
+2,191,Ibuprofen,500,At bedtime
+3,904,Omeprazole,500,Take twice daily
+4,990,Omeprazole,1000,At bedtime
+5,974,Amoxicillin,750,After food
+6,899,Ibuprofen,250,Take twice daily
+7,694,Ibuprofen,750,Take twice daily
+8,344,Lisinopril,500,Take twice daily
+9,321,Metformin,500,Take once daily
+10,990,Cetirizine,1000,Take once daily
+11,19,Cetirizine,750,Take twice daily
+12,399,Amoxicillin,1000,After food
+13,91,Amoxicillin,1000,After food
+14,956,Azithromycin,250,After food
+15,714,Paracetamol,500,At bedtime
+16,965,Omeprazole,1000,At bedtime
+17,43,Amoxicillin,750,Take twice daily
+18,427,Lisinopril,500,Take once daily
+19,531,Aspirin,1000,At bedtime
+20,252,Amoxicillin,500,At bedtime
+21,386,Aspirin,500,Take once daily
+22,147,Metformin,1000,After food
+23,191,Amoxicillin,500,After food
+24,146,Amoxicillin,1000,After food
+25,11,Atorvastatin,750,Take once daily
+26,572,Atorvastatin,750,Take twice daily
+27,587,Ibuprofen,250,Take twice daily
+28,381,Aspirin,250,After food
+29,731,Ibuprofen,1000,At bedtime
+30,811,Metformin,500,At bedtime
+31,335,Lisinopril,250,Take twice daily
+32,586,Atorvastatin,500,Take twice daily
+33,232,Cetirizine,1000,Take twice daily
+34,659,Azithromycin,750,At bedtime
+35,581,Paracetamol,250,Take twice daily
+36,508,Lisinopril,500,After food
+37,555,Azithromycin,500,At bedtime
+38,974,Metformin,500,At bedtime
+39,610,Lisinopril,750,Take twice daily
+40,354,Amoxicillin,1000,After food
+41,795,Paracetamol,750,Take once daily
+42,283,Paracetamol,250,Take twice daily
+43,539,Metformin,1000,Take once daily
+44,643,Metformin,250,At bedtime
+45,851,Metformin,750,Take once daily
+46,424,Paracetamol,750,Take once daily
+47,535,Azithromycin,750,After food
+48,37,Amoxicillin,500,At bedtime
+49,934,Ibuprofen,750,At bedtime
+50,858,Metformin,750,Take once daily
+51,376,Lisinopril,500,After food
+52,820,Azithromycin,750,Take once daily
+53,166,Cetirizine,250,Take once daily
+54,232,Azithromycin,250,After food
+55,312,Atorvastatin,250,Take twice daily
+56,837,Paracetamol,750,Take twice daily
+57,85,Paracetamol,1000,At bedtime
+58,876,Atorvastatin,250,Take twice daily
+59,409,Aspirin,1000,At bedtime
+60,357,Ibuprofen,750,After food
+61,787,Aspirin,250,Take twice daily
+62,426,Ibuprofen,250,Take once daily
+63,700,Aspirin,1000,At bedtime
+64,259,Amoxicillin,500,After food
+65,714,Amoxicillin,250,After food
+66,378,Azithromycin,500,After food
+67,70,Metformin,250,After food
+68,509,Ibuprofen,1000,Take once daily
+69,379,Atorvastatin,1000,Take twice daily
+70,840,Cetirizine,750,At bedtime
+71,356,Amoxicillin,1000,At bedtime
+72,467,Cetirizine,750,Take twice daily
+73,209,Amoxicillin,1000,Take twice daily
+74,404,Ibuprofen,250,After food
+75,641,Paracetamol,500,At bedtime
+76,622,Cetirizine,750,Take twice daily
+77,662,Paracetamol,1000,At bedtime
+78,791,Atorvastatin,1000,Take twice daily
+79,978,Amoxicillin,1000,Take once daily
+80,984,Atorvastatin,1000,After food
+81,149,Amoxicillin,500,After food
+82,229,Aspirin,1000,After food
+83,585,Atorvastatin,250,At bedtime
+84,310,Atorvastatin,250,Take twice daily
+85,167,Metformin,500,Take once daily
+86,965,Cetirizine,250,Take once daily
+87,252,Lisinopril,750,After food
+88,381,Metformin,750,At bedtime
+89,398,Omeprazole,250,Take twice daily
+90,170,Azithromycin,500,Take twice daily
+91,152,Cetirizine,250,At bedtime
+92,897,Omeprazole,500,Take once daily
+93,339,Cetirizine,1000,Take twice daily
+94,14,Paracetamol,1000,After food
+95,807,Lisinopril,500,After food
+96,461,Paracetamol,1000,Take once daily
+97,282,Omeprazole,250,After food
+98,660,Atorvastatin,500,Take once daily
+99,546,Atorvastatin,250,Take twice daily
+100,269,Ibuprofen,750,At bedtime
+101,667,Amoxicillin,750,After food
+102,799,Amoxicillin,500,Take once daily
+103,863,Ibuprofen,250,At bedtime
+104,362,Atorvastatin,1000,At bedtime
+105,435,Atorvastatin,500,Take once daily
+106,959,Aspirin,1000,Take twice daily
+107,587,Aspirin,500,Take once daily
+108,766,Amoxicillin,500,Take twice daily
+109,879,Amoxicillin,1000,After food
+110,845,Cetirizine,1000,Take once daily
+111,189,Atorvastatin,500,After food
+112,607,Ibuprofen,1000,At bedtime
+113,374,Lisinopril,750,Take twice daily
+114,734,Lisinopril,1000,Take twice daily
+115,317,Azithromycin,750,Take once daily
+116,439,Amoxicillin,500,Take once daily
+117,317,Atorvastatin,1000,Take twice daily
+118,937,Metformin,500,Take once daily
+119,31,Cetirizine,1000,Take once daily
+120,451,Omeprazole,250,Take once daily
+121,900,Lisinopril,750,Take twice daily
+122,934,Ibuprofen,750,After food
+123,459,Paracetamol,1000,Take twice daily
+124,110,Metformin,250,Take twice daily
+125,309,Omeprazole,1000,Take once daily
+126,141,Ibuprofen,750,After food
+127,207,Atorvastatin,1000,Take once daily
+128,617,Metformin,500,Take twice daily
+129,479,Atorvastatin,250,After food
+130,514,Omeprazole,500,Take twice daily
+131,157,Ibuprofen,750,At bedtime
+132,15,Cetirizine,750,At bedtime
+133,266,Paracetamol,1000,After food
+134,828,Atorvastatin,1000,At bedtime
+135,141,,750,Take twice daily
+136,184,Lisinopril,750,Take twice daily
+137,541,Omeprazole,750,Take once daily
+138,499,Paracetamol,250,Take twice daily
+139,370,Metformin,1000,Take once daily
+140,889,Lisinopril,250,At bedtime
+141,801,Lisinopril,1000,Take once daily
+142,401,Azithromycin,500,At bedtime
+143,165,Azithromycin,1000,Take once daily
+144,953,Atorvastatin,250,After food
+145,962,Amoxicillin,750,At bedtime
+146,251,Paracetamol,500,At bedtime
+147,207,Ibuprofen,1000,After food
+148,592,Atorvastatin,1000,After food
+149,491,Atorvastatin,250,Take twice daily
+150,227,Amoxicillin,750,Take twice daily
+151,217,Omeprazole,750,Take once daily
+152,418,Paracetamol,500,Take twice daily
+153,23,Lisinopril,1000,After food
+154,273,Aspirin,250,Take twice daily
+155,343,Omeprazole,250,After food
+156,43,Aspirin,500,Take once daily
+157,212,Ibuprofen,1000,After food
+158,906,Metformin,1000,At bedtime
+159,656,Lisinopril,500,Take once daily
+160,648,Omeprazole,500,At bedtime
+161,166,Omeprazole,1000,After food
+162,44,Paracetamol,500,Take twice daily
+163,286,Lisinopril,750,Take twice daily
+164,364,Metformin,750,At bedtime
+165,876,Ibuprofen,250,Take once daily
+166,765,Omeprazole,500,After food
+167,4,Lisinopril,750,Take once daily
+168,611,Paracetamol,750,At bedtime
+169,102,Cetirizine,750,Take twice daily
+170,619,Aspirin,500,Take twice daily
+171,437,Aspirin,1000,At bedtime
+172,458,Cetirizine,1000,Take once daily
+173,267,Lisinopril,500,At bedtime
+174,879,Omeprazole,750,After food
+175,23,Azithromycin,250,Take twice daily
+176,664,Cetirizine,250,Take once daily
+177,835,Aspirin,750,Take once daily
+178,563,Paracetamol,750,At bedtime
+179,800,Amoxicillin,750,At bedtime
+180,97,Paracetamol,250,At bedtime
+181,644,Omeprazole,1000,Take twice daily
+182,164,Omeprazole,500,After food
+183,18,Omeprazole,500,At bedtime
+184,162,Lisinopril,1000,Take once daily
+185,748,Metformin,500,After food
+186,185,Cetirizine,500,Take once daily
+187,883,Amoxicillin,1000,Take once daily
+188,307,Azithromycin,1000,At bedtime
+189,93,Atorvastatin,500,After food
+190,997,Paracetamol,1000,Take once daily
+191,872,Aspirin,250,At bedtime
+192,794,Cetirizine,1000,Take twice daily
+193,535,Atorvastatin,250,After food
+194,394,Cetirizine,750,After food
+195,775,Atorvastatin,250,At bedtime
+196,412,Azithromycin,500,At bedtime
+197,718,Paracetamol,250,Take twice daily
+198,711,Paracetamol,1000,After food
+199,959,Aspirin,250,Take twice daily
+200,42,Paracetamol,250,After food
+201,403,,500,Take once daily
+202,208,Azithromycin,500,At bedtime
+203,935,Ibuprofen,1000,Take once daily
+204,104,Atorvastatin,250,Take twice daily
+205,98,Amoxicillin,1000,At bedtime
+206,252,Lisinopril,1000,Take twice daily
+207,741,Metformin,750,At bedtime
+208,64,Paracetamol,750,After food
+209,16,Atorvastatin,250,At bedtime
+210,236,Omeprazole,250,Take twice daily
+211,805,Paracetamol,250,After food
+212,819,Lisinopril,1000,Take once daily
+213,154,Paracetamol,250,After food
+214,576,Metformin,250,Take twice daily
+215,884,Omeprazole,1000,At bedtime
+216,963,Amoxicillin,1000,After food
+217,353,Atorvastatin,500,After food
+218,770,Cetirizine,250,Take twice daily
+219,984,Omeprazole,250,Take once daily
+220,76,Cetirizine,1000,After food
+221,176,Lisinopril,1000,Take twice daily
+222,726,Amoxicillin,500,Take twice daily
+223,411,Metformin,1000,Take once daily
+224,121,Atorvastatin,1000,After food
+225,403,Ibuprofen,250,After food
+226,117,Lisinopril,250,Take once daily
+227,219,Omeprazole,250,After food
+228,374,Lisinopril,750,Take twice daily
+229,640,Omeprazole,750,Take once daily
+230,676,Aspirin,750,At bedtime
+231,926,Paracetamol,500,Take twice daily
+232,973,Cetirizine,250,Take once daily
+233,457,Cetirizine,750,Take twice daily
+234,959,Omeprazole,1000,Take twice daily
+235,896,Azithromycin,500,After food
+236,310,Omeprazole,1000,Take twice daily
+237,594,Metformin,250,Take twice daily
+238,887,Omeprazole,500,Take twice daily
+239,632,Ibuprofen,750,Take once daily
+240,982,Paracetamol,250,After food
+241,820,Azithromycin,250,After food
+242,503,Omeprazole,500,Take once daily
+243,62,Cetirizine,500,At bedtime
+244,791,Atorvastatin,500,Take once daily
+245,487,Metformin,1000,After food
+246,473,Ibuprofen,500,Take once daily
+247,459,Azithromycin,750,Take twice daily
+248,138,Azithromycin,750,Take once daily
+249,146,Omeprazole,750,Take once daily
+250,70,Atorvastatin,750,After food
+251,286,Amoxicillin,500,Take once daily
+252,300,Omeprazole,1000,Take once daily
+253,340,Azithromycin,750,At bedtime
+254,483,Paracetamol,250,At bedtime
+255,516,Azithromycin,750,After food
+256,599,Metformin,1000,At bedtime
+257,174,Amoxicillin,250,Take once daily
+258,838,Azithromycin,1000,At bedtime
+259,409,Cetirizine,1000,Take twice daily
+260,24,Paracetamol,750,Take twice daily
+261,317,Amoxicillin,750,Take twice daily
+262,53,Lisinopril,250,Take once daily
+263,75,Amoxicillin,500,After food
+264,226,Metformin,1000,At bedtime
+265,92,Atorvastatin,250,After food
+266,597,Omeprazole,1000,Take once daily
+267,911,Omeprazole,1000,After food
+268,661,Cetirizine,500,At bedtime
+269,875,Lisinopril,750,After food
+270,741,Cetirizine,250,Take twice daily
+271,8,Cetirizine,750,At bedtime
+272,390,Aspirin,1000,At bedtime
+273,416,Paracetamol,500,At bedtime
+274,822,Omeprazole,250,Take twice daily
+275,166,Paracetamol,1000,At bedtime
+276,767,Atorvastatin,1000,At bedtime
+277,127,Amoxicillin,1000,At bedtime
+278,792,Paracetamol,1000,After food
+279,976,Omeprazole,500,Take once daily
+280,699,Aspirin,250,Take once daily
+281,543,Aspirin,1000,At bedtime
+282,588,Azithromycin,750,Take once daily
+283,902,Azithromycin,500,At bedtime
+284,625,Azithromycin,250,After food
+285,477,Atorvastatin,500,After food
+286,306,Azithromycin,500,Take once daily
+287,741,Cetirizine,250,Take twice daily
+288,413,Paracetamol,500,At bedtime
+289,151,Aspirin,250,Take twice daily
+290,80,Ibuprofen,250,Take twice daily
+291,806,Paracetamol,250,Take twice daily
+292,504,Aspirin,1000,Take twice daily
+293,820,Azithromycin,750,After food
+294,815,Cetirizine,1000,Take once daily
+295,135,Paracetamol,500,Take twice daily
+296,897,Ibuprofen,500,At bedtime
+297,124,Amoxicillin,250,Take once daily
+298,815,Ibuprofen,250,Take twice daily
+299,931,Amoxicillin,750,Take twice daily
+300,423,Metformin,500,Take once daily
+301,33,Omeprazole,1000,Take twice daily
+302,491,Lisinopril,750,At bedtime
+303,295,Aspirin,1000,After food
+304,993,Azithromycin,1000,Take once daily
+305,364,Cetirizine,500,After food
+306,534,Lisinopril,750,Take once daily
+307,71,Ibuprofen,250,After food
+308,263,Aspirin,750,Take once daily
+309,141,Paracetamol,250,Take once daily
+310,452,Metformin,1000,After food
+311,634,Omeprazole,750,After food
+312,485,Metformin,1000,Take once daily
+313,829,Lisinopril,500,Take once daily
+314,505,Paracetamol,250,After food
+315,537,Metformin,250,At bedtime
+316,270,Paracetamol,750,Take once daily
+317,202,Amoxicillin,1000,Take twice daily
+318,807,Paracetamol,750,After food
+319,225,Metformin,500,After food
+320,719,Cetirizine,1000,At bedtime
+321,948,Aspirin,1000,After food
+322,263,Metformin,250,After food
+323,390,Metformin,500,Take once daily
+324,555,Aspirin,750,Take twice daily
+325,106,Cetirizine,1000,Take twice daily
+326,208,Ibuprofen,500,Take once daily
+327,278,Azithromycin,500,Take twice daily
+328,669,Ibuprofen,250,Take once daily
+329,917,Lisinopril,1000,After food
+330,381,Ibuprofen,1000,After food
+331,568,Lisinopril,500,Take once daily
+332,334,Aspirin,750,Take twice daily
+333,306,Ibuprofen,1000,Take twice daily
+334,451,Omeprazole,1000,Take twice daily
+335,274,Amoxicillin,750,At bedtime
+336,113,Amoxicillin,750,After food
+337,714,Paracetamol,1000,Take once daily
+338,953,Atorvastatin,750,Take once daily
+339,813,Cetirizine,750,Take once daily
+340,320,Azithromycin,250,Take twice daily
+341,367,Omeprazole,500,After food
+342,833,Metformin,1000,At bedtime
+343,941,Lisinopril,750,Take twice daily
+344,24,Ibuprofen,500,At bedtime
+345,278,Metformin,250,At bedtime
+346,863,Lisinopril,500,Take twice daily
+347,298,Omeprazole,500,After food
+348,259,Ibuprofen,750,At bedtime
+349,927,Lisinopril,750,Take once daily
+350,572,Azithromycin,1000,After food
+351,219,Aspirin,750,Take once daily
+352,234,Paracetamol,1000,At bedtime
+353,790,Atorvastatin,500,At bedtime
+354,394,Metformin,500,Take twice daily
+355,730,Metformin,500,Take once daily
+356,702,Metformin,750,Take once daily
+357,45,Omeprazole,750,Take twice daily
+358,536,Metformin,750,At bedtime
+359,717,Azithromycin,1000,Take once daily
+360,387,Omeprazole,500,Take once daily
+361,709,Metformin,250,Take once daily
+362,823,Lisinopril,1000,Take twice daily
+363,253,Aspirin,250,After food
+364,762,Amoxicillin,250,Take once daily
+365,881,Aspirin,500,At bedtime
+366,86,Atorvastatin,1000,Take once daily
+367,951,Cetirizine,250,At bedtime
+368,507,Lisinopril,750,Take once daily
+369,94,Atorvastatin,250,Take twice daily
+370,318,Omeprazole,500,Take twice daily
+371,567,Omeprazole,500,After food
+372,531,Omeprazole,750,At bedtime
+373,364,Atorvastatin,250,At bedtime
+374,451,Lisinopril,250,Take twice daily
+375,21,Paracetamol,750,After food
+376,389,Aspirin,1000,Take once daily
+377,344,Metformin,750,Take twice daily
+378,360,Ibuprofen,750,Take once daily
+379,823,Amoxicillin,500,At bedtime
+380,706,Metformin,750,Take twice daily
+381,911,Omeprazole,750,At bedtime
+382,889,Azithromycin,250,After food
+383,839,Omeprazole,250,Take twice daily
+384,763,Amoxicillin,750,At bedtime
+385,263,Omeprazole,1000,Take twice daily
+386,791,Lisinopril,1000,Take once daily
+387,889,Aspirin,750,Take once daily
+388,201,Lisinopril,1000,After food
+389,350,Aspirin,500,Take twice daily
+390,751,Amoxicillin,1000,Take twice daily
+391,722,Atorvastatin,1000,Take once daily
+392,101,Aspirin,250,Take twice daily
+393,473,Amoxicillin,1000,Take twice daily
+394,368,Azithromycin,250,At bedtime
+395,462,Ibuprofen,250,Take once daily
+396,891,Ibuprofen,750,Take once daily
+397,509,Atorvastatin,750,Take once daily
+398,28,Atorvastatin,500,At bedtime
+399,1000,Paracetamol,750,Take once daily
+400,420,Cetirizine,750,Take twice daily
+401,266,Atorvastatin,250,After food
+402,722,Lisinopril,500,Take twice daily
+403,137,Paracetamol,500,At bedtime
+404,185,Ibuprofen,250,At bedtime
+405,405,Ibuprofen,500,After food
+406,148,Azithromycin,750,After food
+407,108,Paracetamol,500,Take once daily
+408,801,Metformin,250,Take twice daily
+409,295,Metformin,1000,Take twice daily
+410,512,Lisinopril,250,After food
+411,487,Lisinopril,500,Take once daily
+412,45,Lisinopril,750,Take twice daily
+413,662,Atorvastatin,750,After food
+414,802,Amoxicillin,500,At bedtime
+415,673,Metformin,750,Take once daily
+416,870,,750,Take once daily
+417,91,Metformin,500,At bedtime
+418,999,Paracetamol,250,Take once daily
+419,356,Paracetamol,500,At bedtime
+420,879,Omeprazole,250,Take twice daily
+421,599,Metformin,750,Take once daily
+422,42,Lisinopril,1000,Take twice daily
+423,370,Metformin,250,Take once daily
+424,538,Ibuprofen,250,After food
+425,922,Ibuprofen,500,After food
+426,682,Omeprazole,500,After food
+427,474,Cetirizine,250,At bedtime
+428,752,Metformin,750,Take once daily
+429,946,Omeprazole,1000,Take twice daily
+430,522,,250,After food
+431,534,Paracetamol,250,Take twice daily
+432,314,Omeprazole,500,After food
+433,579,Aspirin,1000,At bedtime
+434,148,Paracetamol,1000,At bedtime
+435,59,Lisinopril,500,At bedtime
+436,764,Azithromycin,500,At bedtime
+437,767,Metformin,750,After food
+438,315,Amoxicillin,250,At bedtime
+439,388,Paracetamol,250,Take twice daily
+440,138,Lisinopril,750,At bedtime
+441,287,Omeprazole,1000,At bedtime
+442,68,Aspirin,1000,After food
+443,72,Azithromycin,1000,After food
+444,666,Atorvastatin,250,Take once daily
+445,716,Atorvastatin,750,After food
+446,514,Omeprazole,1000,Take twice daily
+447,537,Metformin,500,Take twice daily
+448,22,Lisinopril,250,After food
+449,503,Paracetamol,1000,Take once daily
+450,757,Aspirin,500,Take once daily
+451,187,Ibuprofen,500,Take twice daily
+452,612,,1000,After food
+453,101,Metformin,250,Take twice daily
+454,618,Paracetamol,250,After food
+455,222,Lisinopril,1000,Take twice daily
+456,157,Omeprazole,250,Take twice daily
+457,380,Atorvastatin,500,Take twice daily
+458,920,Aspirin,1000,Take once daily
+459,806,Amoxicillin,1000,After food
+460,676,Ibuprofen,1000,At bedtime
+461,5,Azithromycin,500,After food
+462,904,Ibuprofen,1000,Take once daily
+463,333,Atorvastatin,250,Take twice daily
+464,581,Amoxicillin,1000,Take once daily
+465,954,Metformin,250,At bedtime
+466,498,,750,At bedtime
+467,868,Paracetamol,750,Take twice daily
+468,840,Ibuprofen,250,At bedtime
+469,110,Metformin,750,At bedtime
+470,718,Metformin,250,At bedtime
+471,782,Aspirin,250,At bedtime
+472,579,Amoxicillin,1000,Take once daily
+473,14,Lisinopril,750,Take once daily
+474,364,Lisinopril,500,Take once daily
+475,53,Cetirizine,1000,At bedtime
+476,293,Azithromycin,1000,At bedtime
+477,745,Paracetamol,500,After food
+478,412,Aspirin,750,Take twice daily
+479,176,Aspirin,500,Take twice daily
+480,126,Aspirin,250,Take twice daily
+481,969,Azithromycin,1000,Take twice daily
+482,840,Ibuprofen,750,At bedtime
+483,553,Omeprazole,750,Take twice daily
+484,434,Omeprazole,500,Take once daily
+485,771,Ibuprofen,500,At bedtime
+486,267,Lisinopril,750,Take once daily
+487,685,Omeprazole,500,After food
+488,167,Azithromycin,250,Take twice daily
+489,45,Omeprazole,500,After food
+490,89,Atorvastatin,1000,After food
+491,961,Omeprazole,1000,At bedtime
+492,801,Metformin,500,After food
+493,563,Cetirizine,750,At bedtime
+494,724,Lisinopril,500,At bedtime
+495,579,Paracetamol,1000,Take twice daily
+496,478,Omeprazole,250,At bedtime
+497,657,Metformin,1000,At bedtime
+498,267,Lisinopril,500,At bedtime
+499,707,Cetirizine,1000,Take twice daily
+500,537,Paracetamol,500,Take once daily
+501,176,Metformin,500,Take twice daily
+502,53,Omeprazole,1000,Take twice daily
+503,128,Amoxicillin,750,At bedtime
+504,625,Azithromycin,750,After food
+505,956,Azithromycin,750,After food
+506,920,Azithromycin,500,After food
+507,736,Metformin,250,Take once daily
+508,265,Ibuprofen,250,Take once daily
+509,790,Cetirizine,1000,At bedtime
+510,50,Amoxicillin,750,Take once daily
+511,710,Amoxicillin,1000,Take twice daily
+512,932,Aspirin,1000,Take once daily
+513,446,Atorvastatin,1000,Take once daily
+514,594,Cetirizine,1000,Take twice daily
+515,480,Amoxicillin,250,At bedtime
+516,54,Omeprazole,500,Take twice daily
+517,472,Aspirin,750,After food
+518,910,Metformin,250,Take once daily
+519,370,Lisinopril,750,At bedtime
+520,779,Aspirin,500,After food
+521,545,Ibuprofen,500,After food
+522,651,Aspirin,1000,After food
+523,883,Lisinopril,250,After food
+524,223,Azithromycin,500,At bedtime
+525,550,Paracetamol,1000,Take once daily
+526,300,Paracetamol,500,After food
+527,143,Atorvastatin,1000,Take once daily
+528,694,Azithromycin,1000,After food
+529,560,Cetirizine,750,Take once daily
+530,434,Cetirizine,1000,Take twice daily
+531,137,Metformin,750,After food
+532,212,Omeprazole,750,Take once daily
+533,332,Omeprazole,250,Take twice daily
+534,790,Ibuprofen,250,At bedtime
+535,635,Omeprazole,750,At bedtime
+536,777,Azithromycin,750,After food
+537,96,Omeprazole,750,After food
+538,292,Omeprazole,1000,At bedtime
+539,668,Omeprazole,1000,Take once daily
+540,269,Paracetamol,500,After food
+541,204,Aspirin,250,Take once daily
+542,534,Ibuprofen,1000,After food
+543,136,Aspirin,1000,Take twice daily
+544,835,Atorvastatin,250,At bedtime
+545,152,Ibuprofen,750,Take once daily
+546,609,,500,After food
+547,290,Paracetamol,750,Take once daily
+548,176,Amoxicillin,1000,After food
+549,611,Aspirin,500,After food
+550,697,Amoxicillin,750,Take twice daily
+551,779,Paracetamol,1000,After food
+552,498,Azithromycin,750,Take once daily
+553,766,Azithromycin,250,After food
+554,445,Aspirin,250,After food
+555,320,Amoxicillin,1000,After food
+556,569,Azithromycin,250,Take once daily
+557,136,Lisinopril,750,Take once daily
+558,476,Cetirizine,1000,Take once daily
+559,421,Ibuprofen,500,At bedtime
+560,356,Azithromycin,750,After food
+561,351,Omeprazole,250,Take twice daily
+562,660,Amoxicillin,250,Take twice daily
+563,894,Aspirin,250,At bedtime
+564,848,Azithromycin,1000,After food
+565,934,Cetirizine,500,Take twice daily
+566,173,Atorvastatin,500,Take once daily
+567,705,Amoxicillin,500,After food
+568,608,Atorvastatin,250,After food
+569,149,Atorvastatin,250,After food
+570,75,Ibuprofen,1000,After food
+571,504,Lisinopril,750,Take once daily
+572,442,Cetirizine,1000,At bedtime
+573,606,Aspirin,250,Take twice daily
+574,899,Omeprazole,500,Take once daily
+575,726,Paracetamol,1000,Take twice daily
+576,265,Omeprazole,500,At bedtime
+577,473,Omeprazole,500,After food
+578,696,Atorvastatin,750,After food
+579,274,Metformin,500,Take twice daily
+580,433,Amoxicillin,250,Take once daily
+581,126,Omeprazole,750,At bedtime
+582,294,Paracetamol,250,At bedtime
+583,900,Omeprazole,1000,At bedtime
+584,226,Cetirizine,500,Take twice daily
+585,593,Metformin,250,At bedtime
+586,818,Paracetamol,250,Take twice daily
+587,272,Aspirin,1000,After food
+588,350,Atorvastatin,500,Take twice daily
+589,848,Metformin,750,At bedtime
+590,836,Amoxicillin,750,After food
+591,323,Aspirin,500,After food
+592,790,Aspirin,750,Take twice daily
+593,16,Amoxicillin,750,After food
+594,959,Azithromycin,250,Take twice daily
+595,628,Aspirin,750,After food
+596,10,Cetirizine,500,Take once daily
+597,992,Aspirin,1000,After food
+598,780,Paracetamol,1000,Take twice daily
+599,848,Lisinopril,250,Take twice daily
+600,929,Ibuprofen,750,Take twice daily
+601,812,Omeprazole,250,Take once daily
+602,485,Paracetamol,500,After food
+603,432,Lisinopril,750,At bedtime
+604,369,Aspirin,1000,Take twice daily
+605,381,Cetirizine,250,Take once daily
+606,86,Paracetamol,750,Take twice daily
+607,491,Amoxicillin,750,Take once daily
+608,857,Ibuprofen,750,At bedtime
+609,652,Ibuprofen,500,Take once daily
+610,529,Cetirizine,250,At bedtime
+611,805,Azithromycin,750,At bedtime
+612,277,Metformin,500,Take once daily
+613,129,Amoxicillin,500,Take once daily
+614,930,Aspirin,250,Take twice daily
+615,987,Amoxicillin,750,At bedtime
+616,93,Aspirin,500,Take twice daily
+617,337,Atorvastatin,250,Take twice daily
+618,132,Azithromycin,750,Take once daily
+619,441,Atorvastatin,250,Take twice daily
+620,899,Azithromycin,750,At bedtime
+621,306,Omeprazole,250,After food
+622,998,Metformin,750,At bedtime
+623,512,Metformin,250,After food
+624,174,Metformin,500,After food
+625,101,Cetirizine,250,Take once daily
+626,755,Aspirin,500,At bedtime
+627,649,Amoxicillin,1000,At bedtime
+628,650,Azithromycin,500,Take once daily
+629,815,Amoxicillin,1000,At bedtime
+630,966,Cetirizine,250,After food
+631,82,Lisinopril,250,Take twice daily
+632,500,,500,Take once daily
+633,118,Metformin,1000,Take twice daily
+634,182,Paracetamol,250,Take twice daily
+635,931,Cetirizine,1000,After food
+636,833,Metformin,250,After food
+637,978,Omeprazole,1000,Take twice daily
+638,906,Ibuprofen,1000,After food
+639,132,Amoxicillin,250,Take twice daily
+640,327,Azithromycin,500,At bedtime
+641,818,Cetirizine,750,Take twice daily
+642,953,Cetirizine,750,Take twice daily
+643,940,Aspirin,1000,Take once daily
+644,737,Ibuprofen,750,After food
+645,59,Metformin,500,Take once daily
+646,768,Aspirin,250,Take once daily
+647,180,Paracetamol,250,After food
+648,552,Aspirin,250,Take twice daily
+649,587,Paracetamol,500,At bedtime
+650,840,Azithromycin,250,At bedtime
+651,671,Ibuprofen,500,After food
+652,614,Lisinopril,750,Take twice daily
+653,384,Atorvastatin,500,Take once daily
+654,671,Amoxicillin,500,Take once daily
+655,744,Amoxicillin,500,Take twice daily
+656,406,Omeprazole,750,After food
+657,330,Paracetamol,1000,After food
+658,794,Paracetamol,750,At bedtime
+659,131,Metformin,750,After food
+660,283,Cetirizine,750,After food
+661,700,Paracetamol,500,At bedtime
+662,508,Amoxicillin,750,Take twice daily
+663,366,Metformin,1000,At bedtime
+664,132,Atorvastatin,750,Take once daily
+665,253,Omeprazole,1000,After food
+666,84,Atorvastatin,750,After food
+667,220,Azithromycin,250,Take twice daily
+668,89,Amoxicillin,1000,After food
+669,161,Lisinopril,500,Take once daily
+670,540,Azithromycin,250,After food
+671,395,Lisinopril,500,At bedtime
+672,375,,250,After food
+673,157,Metformin,500,Take once daily
+674,752,Paracetamol,750,After food
+675,550,Amoxicillin,1000,Take twice daily
+676,514,Omeprazole,250,Take once daily
+677,422,Azithromycin,1000,After food
+678,796,Ibuprofen,250,Take once daily
+679,779,,250,Take twice daily
+680,884,Metformin,1000,After food
+681,305,Aspirin,750,After food
+682,622,Azithromycin,500,Take twice daily
+683,959,Omeprazole,750,After food
+684,648,Azithromycin,750,At bedtime
+685,224,Paracetamol,250,Take twice daily
+686,116,Paracetamol,750,Take once daily
+687,361,Lisinopril,1000,After food
+688,633,Atorvastatin,750,Take once daily
+689,375,Paracetamol,1000,Take once daily
+690,937,Amoxicillin,250,Take twice daily
+691,529,Omeprazole,500,Take once daily
+692,843,Amoxicillin,750,After food
+693,294,Ibuprofen,750,Take once daily
+694,664,Atorvastatin,1000,After food
+695,808,Atorvastatin,500,After food
+696,243,Amoxicillin,250,At bedtime
+697,66,Ibuprofen,500,Take twice daily
+698,98,Lisinopril,250,At bedtime
+699,821,Cetirizine,1000,At bedtime
+700,596,Amoxicillin,500,Take once daily
